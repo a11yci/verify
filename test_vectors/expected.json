@@ -1,0 +1,15 @@
+{
+  "content_hashes": [
+    "037bb0a3c1e3e96d1581da0a7363e3fbbc07483a715f3473029ee2e1f0184f91",
+    "d65448426e2d5af66c85c15e6ac164e8704896042180174cb7f4bc491cf12b2c",
+    "ea0f228ca5f5a5f8e92fb848c47c81317c5b122c99f9e76d19fd18530c8cba2c"
+  ],
+  "genesis": "037bb0a3c1e3e96d1581da0a7363e3fbbc07483a715f3473029ee2e1f0184f91",
+  "head": "ea0f228ca5f5a5f8e92fb848c47c81317c5b122c99f9e76d19fd18530c8cba2c",
+  "anchor": {
+    "commitment": "5a57103eb1043bef0b72ec664cf7bd41471181f2f3d98a3acbe16adeebbf59b2",
+    "block_height": 970000,
+    "expected_merkle_root_display_hex": "3f8bce694cfdc8d6f5b289b78d5b5ffd3d76753cd008cf153563531a9eb25146"
+  },
+  "note": "A faithful verifier PASSES valid.json offline and FAILS every tampered_*.json."
+}
